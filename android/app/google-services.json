@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "791387632200",
+    "firebase_url": "https://nahwa-tour-6da3c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nahwa-tour-6da3c",
+    "storage_bucket": "nahwa-tour-6da3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791387632200:android:24ff852637bfec72c9de7d",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCALKIBT2pAAq9FMtaWL44JJxwI7WgfuEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
